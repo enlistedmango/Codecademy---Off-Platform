@@ -1,0 +1,17 @@
+body {
+    font-family: Baghdad, sans-serif;
+}
+
+
+img {
+    height: 200px;
+    border: 3px solid black;
+}
+
+li {
+    list-style: square;
+}
+
+.contact {
+    font-style: italic;
+}
